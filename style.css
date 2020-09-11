@@ -1,0 +1,398 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.navbar {
+  background-color: black;
+}
+.navbar a {
+  color: white;
+  padding-left: 10px;
+  margin: 10px;
+}
+i {
+  float: right;
+  position: relative;
+  top: 10px;
+  right: 5px;
+}
+/* ------------------------------------------------------------------------------------------------------------------------------------- */
+.header {
+  background-color: white;
+  font-family: "Oswald", sans-serif;
+  
+}
+
+.spn1 {
+  background-color: black;
+  color: white;
+}
+.container {
+  /* display: flex;
+  
+  flex-wrap: wrap; */
+  background-color: lightgray;
+}
+.img1 {
+  position: relative;
+}
+.img1 img {
+  /* position: relative; */
+  width: 100%;
+  height: auto;
+}
+
+.headertitle {
+  padding: 55px;
+  text-align: center;
+}
+.head1 {
+  font-size: 36px;
+  font-weight: 300;
+
+  font-family: "Oswald";
+}
+.head2 {
+  font-size: 64px;
+  font-weight: 700;
+
+  font-family: "Oswald", sans-serif;
+}
+.container-image-content {
+  letter-spacing: 4px;
+  position: absolute;
+  margin-left: 20px;
+  top: calc(50% - 92px);
+  color: white;
+}
+.btn1 {
+  display: flex;
+
+  background-color: (rgb(239, 239, 239), rgb(74, 74, 74));
+
+  padding: 10px;
+  opacity: 0.7;
+}
+.btn1:hover {
+  opacity: 0.9;
+  background-color: white;
+}
+.spn2 {
+  color: grey;
+}
+.wholediv {
+  display: flex;
+
+  
+ 
+}
+.leftdiv {
+  width: 80%;
+  /* position: relative;
+  top: 20px;
+  left: 30px; */
+  /* width: 100%; */
+  /* background-color: white; */
+  margin-right: 50px;
+  /* margin-right: 70px;
+  margin-bottom: 35px; */
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+}
+.left-card {
+  margin: 30px;
+  background-color: white;
+}
+.rightdiv {
+  width: 70%;
+  padding-top: 30px;
+  
+}
+.girlhat img {
+  width: 100%;
+}
+.leftcard {
+  margin-top: 30px;
+  margin-left:20px ;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Oswald", sans-serif;
+}
+.para2 {
+  font-family: "Open Sans";
+}
+.right-card{
+  width: 100%;
+  height: auto;
+  
+}
+.right-card img {
+  width: 100%;
+  filter: grayscale(75%);
+  vertical-align: middle;
+}
+
+.header-para5 {
+  background-color: black;
+  color: white;
+  padding: 0.5rem 0.5rem;
+}
+.header4 {
+  font-family: "Oswald";
+  font-size: 20px;
+}
+.para4 {
+  font-size: 15px;
+  font-family: "Open Sans";
+}
+.leftdiv-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn4 img {
+  display: flex;
+
+  width: 20px;
+  float: left;
+  margin-right: 10px;
+}
+.btn4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-style: solid;
+  padding: 6px;
+}
+.btn5 span{
+  background-color: gray;
+  color: white;
+  color: black;
+  line-height: 18px;
+  background-color: white;
+  padding: 7px;
+}
+.btn5 {
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+  /* border-width: 1px; */
+  padding: 5px 0px 4px 11px;
+}
+/* #like {
+   font-size: 50px;
+} */
+.btn5 span {
+ 
+}
+
+.spn4 {
+  color: grey;
+}
+.george {
+  font-family: "Oswald";
+}
+.george-great {
+  padding-top: 10px;
+}
+.great-blog {
+  font-family: "Open Sans";
+}
+
+.imgavatar-great {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.imgavatar-great > div {
+  margin: 0px 0px 20px 30px;}
+.imgavatar-great img {
+  width: 100px;
+}
+
+
+.content-container {
+  max-width: 1650px;
+  margin: 0 auto;
+}
+.avatar-smoke img {
+  width: 100%;
+}
+.wrapper {
+  padding:20px;
+}
+.popular-posts {
+  margin-top: 50px;
+  color: white;
+  background-color: black;
+  padding: 0.5rem 0.5rem;
+}
+.wrapper3 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  color: black;
+  border-bottom: 2px solid lightgray;
+}
+.one {
+  display: flex;
+ 
+
+
+ 
+}
+.one img {
+  width: 100%;
+  height: 75px;
+  margin: 10px 0px 0px 10px;
+}
+.avatar-imgsmk img{
+  width: 100%;
+}
+.avatar-imgsmk {
+  width: 16%;
+}
+
+
+.smoke-p{
+  line-height: 18px;
+margin-left: 25px;
+}
+.wrapper2{
+  padding:20px;
+}
+.wrapper3{
+  padding: 20px;
+}
+.wrapper4{
+  border:1px solid red;
+  background-color: white;
+}
+.urad{
+  background-color: #F1F1F1;
+  margin: 27px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+
+}
+.tags-1{
+  padding: 1px;
+  background-color: white;
+}
+.span-countires{
+display: flex;
+flex-wrap: wrap;
+}
+.spn3{
+background-color: black;
+color: white;
+padding: 11px;
+margin: 13px;
+}
+.spn4{
+  background-color: lightgray;
+  padding: 7px;
+  margin: 13px;
+}
+.inspire{
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+.whole-img1 img
+{
+  padding: 5px;
+}
+.whole-img2 img{
+  padding: 5px;
+}
+.whole-img-div{
+  display: flex;
+  background-color: white;
+  
+}
+.whole-img1{
+flex-direction: column;
+width: 100%;
+padding: 0px;
+}
+.whole-img2{
+  padding: 0px;
+  width: 100%;
+  flex-direction: column;
+}
+.whole-img2 img{
+  width: 100%;
+}
+.whole-img1 img{
+  width: 100%;
+}
+.follow{
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+.follow-me
+{
+  background-color: white;
+padding: 10px;
+}
+.follow-me i{
+  font-size: 20px;
+    float: none;
+}
+.subscribe{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: white;
+}
+.subscribe input{
+width: 100%;
+}
+.subscribe button{
+  border-radius: 5px;
+  color: white;
+  background-color: #F44336;
+  text-align: center;
+}
+.footer{
+  
+  padding: 50px;
+  background-color: gray;
+}
+.footer i{
+  margin-bottom: 10px;
+}
+.s{
+  width: 8%;
+}
+
+@media only screen and (max-width: 1300px) {
+  .wholediv {
+    display: flex;
+    flex-direction: column;
+  }
+  .leftdiv{
+    width: 100%;
+
+  }
+  
+  .popular-posts{
+    padding: 15px;
+  }
+.rightdiv{
+  width: 94.5%;
+  padding: 0px;
+    margin-left: 24px;
+}
